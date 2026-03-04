@@ -1,8 +1,9 @@
 # 💫 About Me:
-Currently Learning
+Still Learning
+
+![cat](https://github.com/user-attachments/assets/ac69b475-9c6a-4f80-962b-03198f3157f6)
 
 
-# 💻 Tech Stack:
 <!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) -->
 ![My Skills](https://skillicons.dev/icons?i=c,html,css,js)
 
