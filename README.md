@@ -15,5 +15,7 @@ Currently Learning
 
 
 
-![0304(1)](https://github.com/user-attachments/assets/d2f37cc6-18b5-4cea-97be-782a7e165666)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2f37cc6-18b5-4cea-97be-782a7e165666" width="700"/>
+</p>
 
