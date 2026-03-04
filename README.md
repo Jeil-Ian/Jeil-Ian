@@ -13,7 +13,7 @@ Still Learning
 
 <br/>
 
-# 💻👩🏻‍💻✍🏻Learning:
+# 💻✍🏻Learning:
 ![My Skills](https://skillicons.dev/icons?i=nodejs,wasm,python,tailwind,godot,react,postgres)
 
 
