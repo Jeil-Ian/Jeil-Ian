@@ -20,7 +20,7 @@ Still Learning
 <br/>
 
 # 💻✍🏻Learning:
-![My Skills](https://skillicons.dev/icons?i=nodejs,wasm,python,tailwind,godot,react,postgres)
+![My Skills](https://skillicons.dev/icons?i=nodejs,wasm,python,tailwind,godot,react,postgres,java)
 
 
 
