@@ -15,5 +15,4 @@ Currently Learning
 ![Uploading 0304(1).gif…]()
 
 
-Uploading 0304(1).mp4…
 
