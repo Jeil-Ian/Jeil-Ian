@@ -11,7 +11,7 @@ Still Learning
 # Currently Knows:
 ![My Skills](https://skillicons.dev/icons?i=c,html,css,js)
 
-
+<br/>
 
 # 💻👩🏻‍💻✍🏻Learning:
 ![My Skills](https://skillicons.dev/icons?i=nodejs,wasm,python,tailwind,godot,react,postgres)
