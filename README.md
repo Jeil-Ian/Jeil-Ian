@@ -10,6 +10,10 @@ Currently Learning
 ![My Skills](https://skillicons.dev/icons?i=nodejs,wasm,python,tailwind,godot,react,postgres)
 
 
-Uploading 0304(1).mp4…
+
 
 ![Uploading 0304(1).gif…]()
+
+
+Uploading 0304(1).mp4…
+
