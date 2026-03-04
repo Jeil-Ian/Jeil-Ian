@@ -4,7 +4,7 @@ Still Learning
 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/ac69b475-9c6a-4f80-962b-03198f3157f6" width="700"/>
+  <img src="https://github.com/user-attachments/assets/ac69b475-9c6a-4f80-962b-03198f3157f6" width="100"/>
 </p>
 
 <!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) -->
