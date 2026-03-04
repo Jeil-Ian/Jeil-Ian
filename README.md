@@ -8,5 +8,5 @@ Currently Learning
 
 
 # Learning:
-[![My Skills](https://skillicons.dev/icons?i=node.js,wasm,python)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=node.js,wasm,python)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
