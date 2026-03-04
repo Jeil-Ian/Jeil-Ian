@@ -7,5 +7,5 @@ Currently Learning
 ![My Skills](https://skillicons.dev/icons?i=c,html,css,js)
 
 # Learning:
-![My Skills](https://skillicons.dev/icons?i=nodejs,wasm,python)
+![My Skills](https://skillicons.dev/icons?i=nodejs,wasm,python,tailwind)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
