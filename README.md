@@ -12,7 +12,8 @@ Currently Learning
 
 
 
-![Uploading 0304(1).gif…]()
 
 
+
+![0304(1)](https://github.com/user-attachments/assets/d2f37cc6-18b5-4cea-97be-782a7e165666)
 
